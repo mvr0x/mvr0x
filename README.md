@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @mvr0x
+- 👋 Hi, I’m @meetvadher
 - 👀 I’m interested in InfoSec.
 - 🌱 I’m currently learning programming and scripting.
 - 💞️ I’m looking to collaborate on bug bounty and pentesting.
 - 📫 How to reach me - 
--      Twitter   @mvr0x 
--      Telegram  @mvr0x
--      Instagram @mvr0x
+-      Twitter   @meetvadher_ 
+-      Telegram  @meetvadher
+-      Instagram @meetvadher_
 -      Mail mvr0x@protonmail.com
 
 <!---
